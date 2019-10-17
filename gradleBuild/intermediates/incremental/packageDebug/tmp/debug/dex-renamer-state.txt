@@ -1,0 +1,7 @@
+#Thu Oct 17 20:55:51 CST 2019
+base.0=D\:\\App made\\FruitSweetColorFrame\\gradleBuild\\intermediates\\dex\\debug\\mergeProjectDexDebug\\out
+path.1=classes.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=D\:\\App made\\FruitSweetColorFrame\\gradleBuild\\intermediates\\dex\\debug\\mergeExtDexDebug\\out
